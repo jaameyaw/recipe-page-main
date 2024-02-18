@@ -21,7 +21,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](../recipe-page-main/screenshot/recipe-page.png)
+[(/recipe-page-main/screenshot/recipe-page.png)]
 
 
 
@@ -52,7 +52,7 @@ JavaScript
 
 ### Useful resources
 
-- [Example resource 1](https://www.stackoverflow.com) - This helped me for changing the color of unordered bullet points.
+- [(https://www.stackoverflow.com)] - This helped me for changing the color of unordered bullet points.
 
 
 ## Author
