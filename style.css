@@ -66,14 +66,6 @@ body {
     color: hsl(30, 10%, 34%);
 }
 
-.preparation-list li::before {
-    content: "•"; 
-    color: hsl(332, 51%, 32%);
-    display: inline-block; 
-    width: 1.5em;
-    margin-left: -1em;
-    font-size: 17px;
-}
 
 .ingredients-container h2{
     font-family: "Young Serif", serif;
@@ -117,10 +109,6 @@ body {
     
 }
 
-ol [type= "1"] {
-    color: hsl(14, 45%, 36%);
-}
-
 
 .instructions-list li {
     padding-bottom: 10px;
@@ -149,12 +137,8 @@ table {
     margin-left: 1.6em;
     border-collapse: collapse;
     width: 80%;
-    margin-bottom: 3em;
-   
-    
+    margin-bottom: 3em;  
 }
-
-
 
 table tr td {
     padding: 8px;
@@ -163,18 +147,15 @@ table tr td {
     font-family: "Outfit", sans-serif;   
 }
 
-
 tr.no-border td {
     border-bottom: none;
 }
-
 
 .item {
     padding-left: 12em;
     color: hsl(14, 45%, 36%);
     font-weight: bold;
 }
-
 
 
 @media (max-width: 576px) {
